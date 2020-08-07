@@ -11,8 +11,10 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://drive.google.com/file/d/1_wSGz8uQSYVTSC-Gbo9kQEl_pixyLnqL/view?usp=sharing" />][facebook]
 
-
 <br />
+<br />
+
+---
 
 ### Languages and Tools:
 
